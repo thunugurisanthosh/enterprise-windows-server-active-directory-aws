@@ -26,14 +26,6 @@ Built an enterprise-style Windows Server environment on AWS using **Windows Serv
 
 **AWS EC2 | AWS VPC | Windows Server 2022 | Active Directory | DNS | Group Policy | RDP | NTFS | TCP/IP**
 
-## 📸 Screenshots
-
-* AWS EC2 Infrastructure
-* Security Group
-* Active Directory
-* DNS Manager
-* Group Policy
-* Domain-joined CLIENT01
 
 ## ✅ Outcome
 
