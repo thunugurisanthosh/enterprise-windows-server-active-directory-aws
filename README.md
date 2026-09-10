@@ -1,5 +1,10 @@
 # Enterprise Windows Server & Active Directory Infrastructure on AWS
 
+
+ Architecture
+                 <img width="1408" height="768" alt="diagram" src="https://github.com/user-attachments/assets/c61d571e-f1e5-4ccd-a664-b44c31c80801" />
+
+
 ## 📌 Overview
 
 Built an enterprise-style Windows Server environment on AWS using **Windows Server 2022, Active Directory, DNS, Group Policy, and File Sharing**.
